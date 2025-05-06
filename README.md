@@ -6,4 +6,4 @@
 - CARRERA: Desarrallodor Full Stack 
 | Carnet | Nombre |
 | ------- | ------- |
-|2024-2148852|Renzo Castillo|
+| 2024-2148852 | Renzo Castillo |

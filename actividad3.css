@@ -1,0 +1,29 @@
+div{
+    text-align: center;
+}
+h1,h2{
+    text-align: center;
+}
+table{
+    border-collapse: collapse;
+    width: 80%;
+    margin: 5% auto;
+    text-align: center;
+}
+p{
+    text-align: right;
+}
+.actividad3{
+    display: inline-block;
+    padding: 20px 40px;
+    text-decoration: none;
+    color: white;
+    background-image: url(https://png.pngtree.com/png-clipart/20190520/original/pngtree-vector-left-arrow-icon-png-image_4198198.jpg);
+    background-size: cover;
+    background-position: center;
+    border-radius: 8px;
+    font-weight: bold;
+    text-align: center;
+    box-sizing: border-box;
+    transition: transform 0.3s;
+}

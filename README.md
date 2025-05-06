@@ -4,6 +4,6 @@
 - Intecap 
 - Centro TICS 
 - CARRERA: Desarrallodor Full Stack 
-|Carnet |Nombre |
-|-------|-------|
+| Carnet | Nombre |
+| ------- | ------- |
 |2024-2148852|Renzo Castillo|
